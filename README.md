@@ -14,9 +14,9 @@ In this program, a simple binary search tree was made (does not handle duplicate
 At this time, the project is __*finished*__.
 ## Knight's Travails
 ### Information
-In this program, the first n fibonacci sequence numbers can be found. This was implemented using both recursion (fibs_rec.rb) and iteration (fibs.rb). All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62.
+In this program, the shortest path for a knight to travel on a chess board is calculated This was implemented using both recursive and iterative methods. All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62.
 ### Status
-At this time, the project is __NOT *finished*__.
+At this time, the project is __*finished*__.
 ## Instructions
 To run these programs, Ruby v2.6.3p62 (or a compatible version) will need to be installed. To check the version of ruby you are using, run this command in terminal:
 ```
