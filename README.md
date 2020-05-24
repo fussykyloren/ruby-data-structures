@@ -1,12 +1,12 @@
 # Data Structures in Ruby
 # Table of Contents
-- Fibonacci Sequence
-  - [Information](https://github.com/fussykyloren/ruby-hangman#information)
-  - [Status](https://github.com/fussykyloren/ruby-hangman#status)
-- Merge Sort
-  - [Information](https://github.com/fussykyloren/ruby-hangman#information)
-  - [Status](https://github.com/fussykyloren/ruby-hangman#status)
-- [Instructions](https://github.com/fussykyloren/ruby-hangman#instructions)
+- [Binary Search Tree](https://github.com/fussykyloren/ruby-data-structures#binary-search-tree)
+  - [Information](https://github.com/fussykyloren/ruby-data-structures#information)
+  - [Status](https://github.com/fussykyloren/ruby-data-structures#status)
+- [Knight's Travails](https://github.com/fussykyloren/ruby-data-structures#knights-travails)
+  - [Information](https://github.com/fussykyloren/ruby-data-structures#information)
+  - [Status](https://github.com/fussykyloren/ruby-data-structures#status)
+- [Instructions](https://github.com/fussykyloren/ruby-data-structures#instructions)
 ## Binary Search Tree
 ### Information
 In this program, a simple binary search tree was made (does not handle duplicates). This was implemented using both recursive and iterative methods. All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62.
